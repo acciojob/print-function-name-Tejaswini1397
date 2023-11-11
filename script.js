@@ -1,5 +1,9 @@
 //your JS code here. If required.
 function functionName(){
-	alert("functionName");
+	console.log("functionName");
+}
+function AccioJob() {
+	console.log("AccioJob");
 }
 functionName();
+AccioJob();
