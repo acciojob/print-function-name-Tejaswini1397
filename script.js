@@ -6,5 +6,7 @@ alert(arguments.callee.name);
 
 }
 function AccioJob() {
-	// console.log(alert(arguments.callee.name));
+	alert(arguments.callee.name);
 }
+functionName();
+ AccioJob();
